@@ -5,4 +5,6 @@ System load transmission via Python to Arduino device
 1. Download a release
 2. Locate folders PyCode and ArCode
 3. Extract them
-4. Before uploading code to arduino and launching python code, prepare your workspace in the Dependence Installation page.
+4. Before uploading code to arduino and launching python code, prepare your workspace in the [Dependence Installation](https://github.com/spytaspund/ArPy-sysmonitor/wiki/Dependence-Installation) page.
+
+That's it! Power up your arduino, open .py program, config it and you are done!
