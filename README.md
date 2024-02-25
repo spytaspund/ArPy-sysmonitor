@@ -1,6 +1,10 @@
 # ArPy-sysmonitor
 System load transmission via Python to Arduino device
 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
 **It is the version for LCD 1602, in future, maybe there will be a ST7735 version**
 ## Installation
 1. Download a release
